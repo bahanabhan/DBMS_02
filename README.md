@@ -594,8 +594,7 @@ Open your fork on GitHub and navigate to the **Actions** tab.
 
 > **Screenshot 4:** Take a screenshot of the completed GitHub Actions run
 > showing all four steps with green checkmarks, and insert it here.
->
-> <img width="960" height="1051" alt="4step" src="https://github.com/user-attachments/assets/2d147ba4-6291-4987-95c5-8f249b0e85d5" />
+><img width="960" height="1051" alt="Screenshot 2026-04-27 at 16-52-22 ci render PlantUML schema and publish GitHub Release on tag · bahanabhan_DBMS_02@fc58661" src="https://github.com/user-attachments/assets/2fa2a651-0d9a-452d-abec-11e5e032ae55" />
 
 
 Once the workflow has completed, navigate to **Releases** in the right sidebar.
@@ -608,7 +607,8 @@ Once the workflow has completed, navigate to **Releases** in the right sidebar.
 > release title, the release notes, and the `schema.svg` download link, and
 > insert it here.
 >
-> ![Uploading schema .png…]()
+> <img width="1920" height="1080" alt="schema " src="https://github.com/user-attachments/assets/6bb65dda-f47d-4adf-8b21-24290ee653e6" />
+
 
 
 ### Questions for Task 6
